@@ -42,19 +42,25 @@ header>div {
 }
 
 header img {
-  display: none;
   width: 150px;
 }
 
 @media (min-width: 1280px) {
   header img {
     display: block;
+    margin-left: 10px;
   }
 }
 
 header nav {
   align-items: center;
   display: flex;
+}
+
+@media (min-width: 1280px) {
+  header nav {
+    align-items: right;
+  }
 }
 
 header nav ul {
