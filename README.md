@@ -5,6 +5,10 @@
 	<img alt="logo Lorem" title="logo" src="./assets/images/logo-blue.png"/>
 </h3>
 
+<p align="center">
+  <img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Fcaspirro&repo=landing_page-lorem&countColorcountColor&countColor=%20b2aa"/>
+</p>
+
 <h5 align="center"> 
   <b>✅ Finalizado | <i>Finished ✅</i></b>
 </h5> 
